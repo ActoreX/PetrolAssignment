@@ -1,0 +1,12 @@
+C:\Users\Aleksander\documents\visual studio 2013\Projects\PetrolScappngNaloga2\PetrolScappngNaloga2\bin\Debug\PetrolScappngNaloga2.exe.config
+C:\Users\Aleksander\documents\visual studio 2013\Projects\PetrolScappngNaloga2\PetrolScappngNaloga2\bin\Debug\PetrolScappngNaloga2.exe
+C:\Users\Aleksander\documents\visual studio 2013\Projects\PetrolScappngNaloga2\PetrolScappngNaloga2\bin\Debug\PetrolScappngNaloga2.pdb
+C:\Users\Aleksander\documents\visual studio 2013\Projects\PetrolScappngNaloga2\PetrolScappngNaloga2\obj\Debug\AlexT_Naloga2Petrol.csprojResolveAssemblyReference.cache
+C:\Users\Aleksander\documents\visual studio 2013\Projects\PetrolScappngNaloga2\PetrolScappngNaloga2\obj\Debug\PetrolScappngNaloga2.Naloga2.resources
+C:\Users\Aleksander\documents\visual studio 2013\Projects\PetrolScappngNaloga2\PetrolScappngNaloga2\obj\Debug\PetrolScappngNaloga2.Properties.Resources.resources
+C:\Users\Aleksander\documents\visual studio 2013\Projects\PetrolScappngNaloga2\PetrolScappngNaloga2\obj\Debug\AlexT_Naloga2Petrol.csproj.GenerateResource.Cache
+C:\Users\Aleksander\documents\visual studio 2013\Projects\PetrolScappngNaloga2\PetrolScappngNaloga2\obj\Debug\PetrolScappngNaloga2.exe
+C:\Users\Aleksander\documents\visual studio 2013\Projects\PetrolScappngNaloga2\PetrolScappngNaloga2\obj\Debug\PetrolScappngNaloga2.pdb
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\AlexT_Naloga2Petrol\AlexT_Naloga2Petrol\bin\Debug\PetrolScappngNaloga2.exe.config
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\AlexT_Naloga2Petrol\AlexT_Naloga2Petrol\obj\Debug\PetrolScappngNaloga2.exe
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\AlexT_Naloga2Petrol\AlexT_Naloga2Petrol\obj\Debug\PetrolScappngNaloga2.pdb

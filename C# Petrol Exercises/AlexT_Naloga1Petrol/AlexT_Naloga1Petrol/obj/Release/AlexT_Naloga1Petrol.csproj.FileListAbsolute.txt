@@ -1,0 +1,8 @@
+C:\Users\Aleksander\documents\visual studio 2013\Projects\MojaPrvaWindowsFormsApp\MojaPrvaWindowsFormsApp\bin\Release\MojaPrvaWindowsFormsApp.exe.config
+C:\Users\Aleksander\documents\visual studio 2013\Projects\MojaPrvaWindowsFormsApp\MojaPrvaWindowsFormsApp\bin\Release\MojaPrvaWindowsFormsApp.exe
+C:\Users\Aleksander\documents\visual studio 2013\Projects\MojaPrvaWindowsFormsApp\MojaPrvaWindowsFormsApp\bin\Release\MojaPrvaWindowsFormsApp.pdb
+C:\Users\Aleksander\documents\visual studio 2013\Projects\MojaPrvaWindowsFormsApp\MojaPrvaWindowsFormsApp\obj\Release\MojaPrvaWindowsFormsApp.Form1.resources
+C:\Users\Aleksander\documents\visual studio 2013\Projects\MojaPrvaWindowsFormsApp\MojaPrvaWindowsFormsApp\obj\Release\MojaPrvaWindowsFormsApp.Properties.Resources.resources
+C:\Users\Aleksander\documents\visual studio 2013\Projects\MojaPrvaWindowsFormsApp\MojaPrvaWindowsFormsApp\obj\Release\AlexT_Naloga1Petrol.csproj.GenerateResource.Cache
+C:\Users\Aleksander\documents\visual studio 2013\Projects\MojaPrvaWindowsFormsApp\MojaPrvaWindowsFormsApp\obj\Release\MojaPrvaWindowsFormsApp.exe
+C:\Users\Aleksander\documents\visual studio 2013\Projects\MojaPrvaWindowsFormsApp\MojaPrvaWindowsFormsApp\obj\Release\MojaPrvaWindowsFormsApp.pdb

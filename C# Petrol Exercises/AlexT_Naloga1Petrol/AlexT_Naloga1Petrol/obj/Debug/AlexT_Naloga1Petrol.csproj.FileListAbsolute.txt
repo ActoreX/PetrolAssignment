@@ -1,0 +1,17 @@
+C:\Users\Aleksander\documents\visual studio 2013\Projects\MojaPrvaWindowsFormsApp\MojaPrvaWindowsFormsApp\bin\Debug\MojaPrvaWindowsFormsApp.exe.config
+C:\Users\Aleksander\documents\visual studio 2013\Projects\MojaPrvaWindowsFormsApp\MojaPrvaWindowsFormsApp\obj\Debug\MojaPrvaWindowsFormsApp.exe
+C:\Users\Aleksander\documents\visual studio 2013\Projects\MojaPrvaWindowsFormsApp\MojaPrvaWindowsFormsApp\obj\Debug\MojaPrvaWindowsFormsApp.pdb
+C:\Users\Aleksander\documents\visual studio 2013\Projects\MojaPrvaWindowsFormsApp\MojaPrvaWindowsFormsApp\bin\Debug\MojaPrvaWindowsFormsApp.exe
+C:\Users\Aleksander\documents\visual studio 2013\Projects\MojaPrvaWindowsFormsApp\MojaPrvaWindowsFormsApp\bin\Debug\MojaPrvaWindowsFormsApp.pdb
+C:\Users\Aleksander\documents\visual studio 2013\Projects\MojaPrvaWindowsFormsApp\MojaPrvaWindowsFormsApp\obj\Debug\MojaPrvaWindowsFormsApp.Form1.resources
+C:\Users\Aleksander\documents\visual studio 2013\Projects\MojaPrvaWindowsFormsApp\MojaPrvaWindowsFormsApp\obj\Debug\MojaPrvaWindowsFormsApp.Properties.Resources.resources
+C:\Users\Aleksander\documents\visual studio 2013\Projects\MojaPrvaWindowsFormsApp\MojaPrvaWindowsFormsApp\obj\Debug\AlexT_Naloga1Petrol.csproj.GenerateResource.Cache
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\AlexT_Naloga1Petrol\AlexT_Naloga1Petrol\bin\Debug\MojaPrvaWindowsFormsApp.exe.config
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\AlexT_Naloga1Petrol\AlexT_Naloga1Petrol\bin\Debug\MojaPrvaWindowsFormsApp.exe
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\AlexT_Naloga1Petrol\AlexT_Naloga1Petrol\bin\Debug\MojaPrvaWindowsFormsApp.pdb
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\AlexT_Naloga1Petrol\AlexT_Naloga1Petrol\obj\Debug\AlexT_Naloga1Petrol.csprojResolveAssemblyReference.cache
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\AlexT_Naloga1Petrol\AlexT_Naloga1Petrol\obj\Debug\MojaPrvaWindowsFormsApp.Form1.resources
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\AlexT_Naloga1Petrol\AlexT_Naloga1Petrol\obj\Debug\MojaPrvaWindowsFormsApp.Properties.Resources.resources
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\AlexT_Naloga1Petrol\AlexT_Naloga1Petrol\obj\Debug\AlexT_Naloga1Petrol.csproj.GenerateResource.Cache
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\AlexT_Naloga1Petrol\AlexT_Naloga1Petrol\obj\Debug\MojaPrvaWindowsFormsApp.exe
+C:\Users\Aleksander\Documents\Visual Studio 2013\Projects\AlexT_Naloga1Petrol\AlexT_Naloga1Petrol\obj\Debug\MojaPrvaWindowsFormsApp.pdb

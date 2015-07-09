@@ -1,0 +1,8 @@
+C:\Users\Aleksander\documents\visual studio 2013\Projects\PetrolScappngNaloga2\PetrolScappngNaloga2\bin\Release\PetrolScappngNaloga2.exe.config
+C:\Users\Aleksander\documents\visual studio 2013\Projects\PetrolScappngNaloga2\PetrolScappngNaloga2\bin\Release\PetrolScappngNaloga2.exe
+C:\Users\Aleksander\documents\visual studio 2013\Projects\PetrolScappngNaloga2\PetrolScappngNaloga2\bin\Release\PetrolScappngNaloga2.pdb
+C:\Users\Aleksander\documents\visual studio 2013\Projects\PetrolScappngNaloga2\PetrolScappngNaloga2\obj\Release\PetrolScappngNaloga2.Naloga2.resources
+C:\Users\Aleksander\documents\visual studio 2013\Projects\PetrolScappngNaloga2\PetrolScappngNaloga2\obj\Release\PetrolScappngNaloga2.Properties.Resources.resources
+C:\Users\Aleksander\documents\visual studio 2013\Projects\PetrolScappngNaloga2\PetrolScappngNaloga2\obj\Release\AlexT_Naloga2Petrol.csproj.GenerateResource.Cache
+C:\Users\Aleksander\documents\visual studio 2013\Projects\PetrolScappngNaloga2\PetrolScappngNaloga2\obj\Release\PetrolScappngNaloga2.exe
+C:\Users\Aleksander\documents\visual studio 2013\Projects\PetrolScappngNaloga2\PetrolScappngNaloga2\obj\Release\PetrolScappngNaloga2.pdb
